@@ -1,2 +1,2 @@
-# simple-Chat-GUI
+# simple-Chat-Secure-GUI
 GUI using TKkinter
